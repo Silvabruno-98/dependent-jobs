@@ -8,7 +8,7 @@ jobs:
     steps: 
     - run: date
   job_on_windows:
-    name: A windows job
+    name: A windows job!
     runs-on: windows-latest
     steps:
     - name: First step in windows job
